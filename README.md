@@ -12,5 +12,5 @@ train2.txt and test2.txt is the data for 18-20
 
 
 
-If there is anything not corrsct, please let me know, or correct it.
+If there is anything wrong, please let me know, or just correct it.
 Thank you.
